@@ -1,4 +1,4 @@
-
+//test push comment
 public class Candidate {
 	//primary key for candidate, given by the assignCandNum in the Election Process
 	private int candidateNum;

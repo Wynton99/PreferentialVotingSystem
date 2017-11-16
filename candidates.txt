@@ -1,0 +1,6 @@
+Candidate	Round1	Round2	Round3	Round4
+John	     200      20      70      40    
+Jessica      150      57      37      67
+Gerald       100      89      98      23
+Jeremaiah    30       76      34      14   
+

@@ -1,7 +1,6 @@
 import java.io.File;
 
 public class ElectionProcess {
-	
 	/*
 	 * gets the file that we write after all voters vote through GUI;
 	 * File should contain:
